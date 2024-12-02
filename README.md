@@ -1,6 +1,6 @@
 # <a href="https://github.com/mharris15"></a> Hello, I'm Michael Harris
 
-🙋‍♂️ Thank you for visiting my GitHub profile! 
+Thank you for visiting my GitHub profile! 
 
 💻 Software Engineer @ Impower.ai || Computer Science Graduate from The Ohio State University
 
