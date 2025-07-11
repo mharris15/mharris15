@@ -2,7 +2,7 @@
 
 Thank you for visiting my GitHub profile! 
 
-💻 Software Engineer @ Impower.ai || Computer Science Graduate from The Ohio State University
+💻 Software Engineering Consultant @ Impower.ai || Computer Science Graduate from The Ohio State University
 
 <hr>
 
